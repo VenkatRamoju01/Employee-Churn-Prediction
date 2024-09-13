@@ -1,1 +1,2 @@
-# Employee-Churn-Prediction
+# Employee Turnover Prediction Model for Salifort Motors
+In this project, I analyzed employee turnover data for Salifort Motors, where high turnover rates were causing financial strain due to the costs associated with recruitment, training, and development. To help the leadership team understand the underlying factors and predict employee departures, I developed a model based on employee attributes such as job title, department, number of projects, and average monthly hours. Various approaches, including logistic regression and machine learning models (decision tree, random forest, XGBoost), were evaluated to create an effective solution for predicting turnover and enhancing employee retention strategies.
