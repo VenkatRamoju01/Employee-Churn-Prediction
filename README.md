@@ -13,7 +13,8 @@ I have broken down the entire process into four stages: Plan, Analyze, Construct
 
 Each of these stages is covered in separate Jupyter notebook files. Please go through the notebooks in the same order for a step-by-step understanding of the project:
 
-1. [Plan Notebook](link-to-plan-notebook)
-2. [Analyze Notebook](link-to-analyze-notebook)
-3. [Construct Notebook](link-to-construct-notebook)
-4. [Evaluate Notebook](link-to-evaluate-notebook)
+- [Plan Notebook](link-to-plan-notebook)
+- [Analyze Notebook](link-to-analyze-notebook)
+- [Construct Notebook](link-to-construct-notebook)
+- [Construct Notebook (with feature engineering)](link-to-construct-notebook)
+- [Evaluate Notebook](link-to-evaluate-notebook)
