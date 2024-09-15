@@ -13,7 +13,7 @@ I have broken down the entire process into four stages: Plan, Analyze, Construct
 
 Each of these stages is covered in separate Jupyter notebook files. Please go through the notebooks in the same order for a step-by-step understanding of the project:
 
-- <a href="1_Plan.ipynb" target="_blank">Plan Notebook</a>
+- <a href="https://github.com/VenkatRamoju01/Employee-Churn-Prediction/blob/main/1_Plan.ipynb" target="_blank">Plan Notebook</a>
 - <a href="2_Analyse.ipynb" target="_blank">Analyze Notebook</a>
 - <a href="3.1_Construct.ipynb" target="_blank">Construct Notebook</a>
 - <a href="3.2_Construct_with_feature_engineering.ipynb" target="_blank">Construct Notebook (with feature engineering)</a>
