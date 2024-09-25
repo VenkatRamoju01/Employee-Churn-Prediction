@@ -1,9 +1,6 @@
 # Employee Turnover Prediction Model for Salifort Motors
 In this project, I analyzed employee turnover data from Salifort Motors (a fictional company) 
 <a href="https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv" target="blank">(sourced from Kaggle-HR Analytics and Job Prediction Dataset)</a>, where high turnover rates were causing financial strain due to recruitment, training, and development costs. To help the leadership team understand the underlying factors and predict employee departures, I developed a model based on attributes such as job title, department, number of projects, and average monthly hours. Various approaches, including logistic regression and machine learning models (decision tree and random forest), were evaluated to create an effective solution for predicting turnover and enhancing employee retention strategies.
-## Description of the project
-
-In this project, I analyzed employee turnover data for Salifort Motors, where high turnover rates were causing financial strain due to the costs associated with recruitment, training, and development. To help the leadership team understand the underlying factors and predict employee departures, I developed a model based on employee attributes such as job title, department, number of projects, and average monthly hours. Various approaches, including logistic regression and machine learning models (decision tree, random forest, and XGBoost), were evaluated to create an effective solution for predicting turnover and improving employee retention strategies.
 
 I have broken down the entire process into four stages: Plan, Analyze, Construct, and Evaluate (PACE). The actions performed under each stage are as follows:
 
